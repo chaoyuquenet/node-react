@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": {
+    "node": "8.1.1",
+    "npm": "5.0.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
